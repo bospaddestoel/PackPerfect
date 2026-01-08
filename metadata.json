@@ -1,0 +1,7 @@
+{
+  "name": "PackPerfect",
+  "description": "A smart holiday packing assistant that helps you create, manage, and reuse packing lists with AI-powered suggestions and photo support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
